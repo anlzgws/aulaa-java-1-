@@ -15,5 +15,6 @@ public class Aula {
             System.out.println("Qual o nome do pardal:" + pardal1.getName());
             System.out.println("cor pena do pardal:" + pardal1.getcorPena());
             System.out.println("Qual o nome do pardal:" + pardal1.getName());
+            pardal1.voar();
     }
 }
